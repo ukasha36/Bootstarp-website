@@ -1,0 +1,10 @@
+.navbar-dark{
+    color: rgb(255 255 255) !important;
+}
+.navbar-dark {
+    --bs-navbar-color: rgb(255 255 255) !important;
+    font-weight: 500 !important;
+}
+ /* .carousel img {
+    height: 400px; /* adjust the height of the images to fit the carousel 
+  }  */
